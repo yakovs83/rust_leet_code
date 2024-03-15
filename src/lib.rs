@@ -19,3 +19,4 @@ pub mod triangle;
 pub mod trie;
 pub mod vowel_spellchecker;
 pub mod zigzag_conversion;
+pub mod product_except_self;

@@ -1,7 +1,5 @@
-use leet_code::swapping_nodes::*;
+use leet_code::product_except_self::*;
 fn main() {
-    let l = from_vec(vec![1, 2]);
-    // let l = from_vec(vec![1, 2, 3, 4, 5, 6]);
-    let res = swap_nodes(l, 1);
-    println!("the list is {:?}", res);
+    let res = product_except_self(vec![1, 2, 3, 4]);
+    println!("{:?}", res);
 }
