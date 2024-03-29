@@ -1,5 +1,7 @@
-use leet_code::product_except_self::*;
+use leet_code::insert_interval57::insert;
+
 fn main() {
-    let res = product_except_self(vec![1, 2, 3, 4]);
+    let input: Vec<Vec<i32>> = [[0, 0]].iter().map(|inner| inner.into()).collect();
+    let res = insert(input, vec![1, 5]);
     println!("{:?}", res);
 }
