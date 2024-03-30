@@ -1,6 +1,7 @@
 pub mod add_two_numbers;
 pub mod atoi;
 pub mod card_points;
+pub mod count_subarrays2962;
 pub mod insert_interval57;
 pub mod keys_and_rooms;
 pub mod length_of_longest_substring;
