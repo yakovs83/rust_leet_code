@@ -7,6 +7,7 @@ pub mod keys_and_rooms;
 pub mod length_of_longest_substring;
 pub mod letter_combinations;
 pub mod longest_palindrome;
+pub mod make_array_unique945;
 pub mod palindrome_number;
 pub mod product_except_self;
 pub mod regex_matching;
